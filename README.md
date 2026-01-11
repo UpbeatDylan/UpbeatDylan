@@ -2,7 +2,7 @@
 
 <div align="center" width="50">
 
-![info](https://github-readme-stats.vercel.app/api?username=UpbeatDylan&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+<!--![info](https://github-readme-stats.vercel.app/api?username=UpbeatDylan&show_icons=true&count_private=true&hide=prs&theme=default_repocard)-->
 
 </div>
 
