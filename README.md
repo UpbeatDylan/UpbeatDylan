@@ -26,10 +26,10 @@
   <sub>“Le Petit Prince” – for curiosity and imagination</sub><br>
 
   <img
-    src="https://raw.githubusercontent.com/UpbeatDylan/UpbeatDylan/main/assets/le-petit-prince.gif"
-    width="360"
-    alt="Le Petit Prince"
-  >
+  src="https://raw.githubusercontent.com/UpbeatDylan/UpbeatDylan/main/assets/le-petit-prince.gif"
+  width="360"
+  alt=""
+>
 
   <br><br>
 
