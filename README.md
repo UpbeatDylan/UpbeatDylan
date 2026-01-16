@@ -28,7 +28,6 @@
   <img
   src="https://raw.githubusercontent.com/UpbeatDylan/UpbeatDylan/main/assets/le-petit-prince.gif"
   width="360"
-  alt=""
 >
 
   <br><br>
