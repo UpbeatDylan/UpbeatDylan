@@ -27,11 +27,11 @@
 
   <!-- 🌟 Personal touch -->
   <img
-    src="https://github.com/anzhihe/anzhihe/blob/main/.github/workflows/Le%20Petit%20Prince.gif"
-    width="500"
-    height="300"
-    alt="Le Petit Prince"
-  >
+  src="https://raw.githubusercontent.com/anzhihe/anzhihe/main/.github/workflows/Le%20Petit%20Prince.gif"
+  width="500"
+  height="300"
+  alt="Le Petit Prince"
+/>
 
   <!--
   <i>Follow me:</i><br>
