@@ -22,14 +22,6 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UpbeatDylan&show_icons=true&include_all_commits=true&hide_title=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UpbeatDylan)
-
-</div>
-
-<div align="center">
-
 <!-- 🌟 Personal touch -->
 <sub>“Le Petit Prince” – for curiosity and imagination</sub><br>
 
