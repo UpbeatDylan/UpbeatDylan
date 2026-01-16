@@ -22,23 +22,24 @@
 
 <div align="center">
 
-  <!-- 🌟 Personal touch -->
-  <sub>“Le Petit Prince” – for curiosity and imagination</sub><br>
+<!-- 🌟 Personal touch -->
+<sub>“Le Petit Prince” – for curiosity and imagination</sub><br>
 
-  <img
+<img
   src="https://raw.githubusercontent.com/UpbeatDylan/UpbeatDylan/main/assets/le-petit-prince.gif"
   width="360"
+  alt="Le Petit Prince"
 >
 
-  <br><br>
+<br><br>
 
-  <!-- 🐍 Technical signal: contribution activity -->
-  ![snake](https://github.com/UpbeatDylan/UpbeatDylan/blob/output/github-contribution-grid-snake.svg)
+<!-- 🐍 Technical signal: contribution activity -->
+![snake](https://github.com/UpbeatDylan/UpbeatDylan/blob/output/github-contribution-grid-snake.svg)
 
-  <!--
-  <i>Follow me:</i><br>
-  ...
-  -->
+<!--
+<i>Follow me:</i><br>
+...
+-->
 </div>
 
 <p>📫 How to reach me <b>splendidyouandme@gmail.com</b></p>
