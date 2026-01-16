@@ -16,6 +16,8 @@ Happy Coding! 😊
 <!--<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>-->
 <img src="https://github.com/anzhihe/anzhihe/blob/main/.github/workflows/Le%20Petit%20Prince.gif" width="500" height="300">
 
+![snake](https://github.com/UpbeatDylan/UpbeatDylan/blob/output/github-contribution-grid-snake.svg)
+
 <!--<i>Follow me:</i><br>
 
 <a href="https://www.linkedin.com/in/UpbeatDylan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
