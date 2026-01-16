@@ -41,6 +41,6 @@
 </div>
 
 <p>
-  📫 <b>splendidyouandme@gmail.com</b><br>
+  📫 <a href="mailto:splendidyouandme@gmail.com"><b>splendidyouandme@gmail.com</b></a><br>
   ⭐ <a href="https://github.com/UpbeatDylan">github.com/UpbeatDylan</a>
 </p>
