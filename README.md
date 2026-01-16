@@ -27,11 +27,9 @@
 
 <img
   src="https://raw.githubusercontent.com/UpbeatDylan/UpbeatDylan/main/assets/le-petit-prince.gif"
-  width="360"
-  alt=""
+  width="370"
+  alt="Le Petit Prince"
 />
-
-<br><br>
 
 <!-- 🐍 Technical signal: contribution activity -->
 ![snake](https://github.com/UpbeatDylan/UpbeatDylan/blob/output/github-contribution-grid-snake.svg)
