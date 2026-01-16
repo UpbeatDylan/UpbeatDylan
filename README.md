@@ -1,10 +1,10 @@
 <h2>
   𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <img
-    src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif"
+    src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"
     width="30"
     alt="Hi"
-  >
+  />
 </h2>
 
 <div align="center">
@@ -28,8 +28,8 @@
 <img
   src="https://raw.githubusercontent.com/UpbeatDylan/UpbeatDylan/main/assets/le-petit-prince.gif"
   width="360"
-  alt="Le Petit Prince"
->
+  alt=""
+/>
 
 <br><br>
 
