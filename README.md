@@ -2,7 +2,7 @@
   𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <img
     src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif"
-    width="30px"
+    width="30"
     alt="Hi"
   >
 </h2>
@@ -22,16 +22,19 @@
 
 <div align="center">
 
+  <!-- 🌟 Personal touch -->
+  <sub>“Le Petit Prince” – for curiosity and imagination</sub><br>
+
+  <img
+    src="https://raw.githubusercontent.com/anzhihe/anzhihe/main/.github/workflows/Le%20Petit%20Prince.gif"
+    width="380"
+    alt="Le Petit Prince"
+  >
+
+  <br><br>
+
   <!-- 🐍 Technical signal: contribution activity -->
   ![snake](https://github.com/UpbeatDylan/UpbeatDylan/blob/output/github-contribution-grid-snake.svg)
-
-  <!-- 🌟 Personal touch -->
-  <img
-  src="https://raw.githubusercontent.com/anzhihe/anzhihe/main/.github/workflows/Le%20Petit%20Prince.gif"
-  width="500"
-  height="300"
-  alt="Le Petit Prince"
-/>
 
   <!--
   <i>Follow me:</i><br>
