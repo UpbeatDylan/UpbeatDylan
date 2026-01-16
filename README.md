@@ -40,6 +40,7 @@
 -->
 </div>
 
-<p>📫 How to reach me <b>splendidyouandme@gmail.com</b></p>
-
-<p>⭐ From <a href="https://github.com/UpbeatDylan">UpbeatDylan</a></p>
+<p>
+  📫 <b>splendidyouandme@gmail.com</b><br>
+  ⭐ <a href="https://github.com/UpbeatDylan">github.com/UpbeatDylan</a>
+</p>
