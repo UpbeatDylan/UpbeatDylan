@@ -26,8 +26,8 @@
   <sub>“Le Petit Prince” – for curiosity and imagination</sub><br>
 
   <img
-    src="https://raw.githubusercontent.com/anzhihe/anzhihe/main/.github/workflows/Le%20Petit%20Prince.gif"
-    width="380"
+    src="https://raw.githubusercontent.com/UpbeatDylan/UpbeatDylan/main/assets/le-petit-prince.gif"
+    width="360"
     alt="Le Petit Prince"
   >
 
@@ -38,22 +38,7 @@
 
   <!--
   <i>Follow me:</i><br>
-
-  <a href="https://www.linkedin.com/in/UpbeatDylan" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/UpbeatDylan" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.facebook.com/originalphreak" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify">
-  </a>
-  <a href="https://dev.to/UpbeatDylan" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to">
-  </a>
+  ...
   -->
 </div>
 
